@@ -1,5 +1,5 @@
 ## Overview
-Welcome to my Github page! 
+Welcome to my Github page! 🐈🐈
 
 <img src="https://github.com/user-attachments/assets/014a3d96-4f5e-4bbe-9612-9f78c97c2566" alt="MillySillyCatGIF" width="300" height="300">
 
