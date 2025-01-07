@@ -31,6 +31,6 @@ Welcome to my Github page! 🐈🐈
 
 ## You can find me here!
 
-- Linkedin: [Marta Jover Valero]()
-- Portfolio: [martajvalero.com](martajvalero.com)
+- Linkedin: [Marta Jover Valero](https://es.linkedin.com/in/marta-jover-valero-6a4979185)
+- Portfolio: [martajvalero.com](https://martajvalero.com/)
 - Itch.io: [martagnarta](https://martagnarta.itch.io/)
