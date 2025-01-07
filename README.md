@@ -32,5 +32,5 @@ Welcome to my Github page! 🐈🐈
 ## You can find me here!
 
 - Linkedin: [Marta Jover Valero]()
-- Portfolio: [martajvalero.com](https://pokemonalpha.es/)
-- Itch.io: [martagnarta](itch.io/martagnarta)
+- Portfolio: [martajvalero.com](martajvalero.com)
+- Itch.io: [martagnarta](https://martagnarta.itch.io/)
